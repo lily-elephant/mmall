@@ -1,0 +1,30 @@
+.login-wrapper{
+  margin: 5% auto 0;
+  padding: 40px 0 0;
+  width: 400px;
+  height: 220px;
+  background: #ffffff;
+  box-shadow: 0 0 5px #ccc;
+  input{
+    display: block;
+    margin: 0 0 30px 50px;
+    padding:0 15px;
+    width: 270px;
+    height: 34px;
+    border: 1px solid #dcdcdc;
+    outline:none;
+    border-radius: 2px;
+  }
+  button{
+    display: block;
+    margin: 0 0 30px 50px;
+    width: 300px;
+    height: 34px;
+    border: none;
+    outline:none;
+    cursor: pointer;
+    background: #2dafcb;
+    color: #ffffff;
+    border-radius: 3px;
+  }
+}

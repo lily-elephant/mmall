@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background: #f3f3f3;
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+.table{
+  width: 100%;
+  border: 1px solid #dcdcdc;
+  border-collapse: collapse;
+  tr{
+    border: 1px solid #dcdcdc;
+    th, td{
+      padding:5px 10px;
+      border: 1px solid #dcdcdc;
+    }
+  }
+}
